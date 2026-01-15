@@ -4,3 +4,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
 
 discover new product
 https://www.producthunt.com/
+
+example of a portfolio website for capstone project1
+https://appbrewery.github.io/capstone-1-example/
