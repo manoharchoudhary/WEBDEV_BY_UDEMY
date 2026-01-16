@@ -1,2 +1,8 @@
 color palet:---
 https://colorhunt.co/
+
+MDN doc for color:---
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
+
+font
+https://fonts.google.com/
