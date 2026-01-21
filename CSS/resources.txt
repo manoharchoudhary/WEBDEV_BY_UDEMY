@@ -6,3 +6,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
 
 font
 https://fonts.google.com/
+
+@media query
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using
